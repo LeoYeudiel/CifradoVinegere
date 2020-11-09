@@ -1,0 +1,49 @@
+*{
+    background-color: #E8B4BC;  
+    margin: 0%;
+    padding: 0%;
+    text-align: center;
+   
+}
+.presentacion{
+    text-align: center;
+    background-color: #3A3238;
+    padding: 2%;
+    color: white;
+}
+h1{
+    background-color: #3A3238;
+    font-size: 50px;
+}
+.llenado{
+    margin-top: 25px;
+    font-size: 24px;
+}
+
+input, textarea{
+    background-color: #F5E3E0;
+    border: transparent;
+    font-size: 18px;
+    margin-top: 10px;
+}
+
+.botones{
+    letter-spacing: 1px;
+    margin-left: 50px;
+    margin-right: 50px;
+    width: 10%;
+    height: 50px;
+}
+.botones:hover{
+    background-color: #6E4555;
+    width: 25%;
+    height: 100px;
+    transition: all 1s linear;
+    border-radius: 30%;
+}
+
+.resul{
+    background-color: thistle;
+    margin-top: 10px;
+    padding: 2%;
+}
